@@ -23,7 +23,8 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	// TODO: Setup Bento Items
+	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: '5f0d0a4324149297897d4c6c2e1447c9', // Don't touch it pls 🥺
@@ -61,19 +62,19 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.uwu.email/',
 		},
 		{
 			id: '3',
 			name: 'Todoist',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://cloud.opendesktop.org/apps/tasks/',
 		},
 		{
 			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://cloud.opendesktop.org/apps/calendar/',
 		},
 		{
 			id: '5',
@@ -94,7 +95,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Music',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			link: 'https://listen.tidal.com',
 		},
 		{
 			id: '2',
@@ -104,7 +105,7 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'bot',
+			name: 'Discord',
 			icon: 'bot',
 			link: 'https://discord.com/app',
 		},
