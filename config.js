@@ -24,7 +24,7 @@ const CONFIG = {
 
 	// Layout
 	// TODO: Setup Bento Items
-	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: '5f0d0a4324149297897d4c6c2e1447c9', // Don't touch it pls 🥺
