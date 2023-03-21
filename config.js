@@ -56,7 +56,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com/Hattshire',
 		},
 		{
 			id: '2',
@@ -68,13 +68,13 @@ const CONFIG = {
 			id: '3',
 			name: 'Todoist',
 			icon: 'trello',
-			link: 'https://cloud.opendesktop.org/apps/tasks/',
+			link: 'https://palta.cyou/apps/tasks/',
 		},
 		{
 			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://cloud.opendesktop.org/apps/calendar/',
+			link: 'https://palta.cyou/apps/calendar/',
 		},
 		{
 			id: '5',
